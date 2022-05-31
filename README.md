@@ -1,3 +1,4 @@
+### Student: Doan Xuan Truong
 ---
 author: Dua Tran
 title: Rock-Paper-Scissor game
